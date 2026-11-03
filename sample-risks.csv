@@ -1,0 +1,5 @@
+id,asset,risk,likelihood,impact,owner,treatment
+R-001,Demo CI runner,Unreviewed pipeline changes,4,4,Platform owner,Require review and least privilege workflow permissions
+R-002,Demo Oracle backup,Unverified recovery procedure,3,5,Database owner,Schedule isolated restore exercise and retain evidence
+R-003,Demo public website,Outdated dependencies,3,3,Application owner,Inventory dependencies and define update cadence
+R-004,Demo documentation,Stale ownership records,2,2,Security owner,Review asset ownership quarterly
